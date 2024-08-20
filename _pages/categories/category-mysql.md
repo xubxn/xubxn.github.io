@@ -1,7 +1,7 @@
 ---
-title: "C # 프로그래밍"
+title: "Mysql 공부"
 layout: archive
-permalink: categories/csharp
+permalink: categories/Mysql
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories['C Sharp'] %}
+{% assign posts = site.categories.Mysql %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

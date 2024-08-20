@@ -9,8 +9,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2020-06-17
-last_modified_at: 2020-06-17
+date: 2024-06-17
+last_modified_at: 2024-06-17
 ---
 
 ## .gitignore 이란?
@@ -51,6 +51,6 @@ git push
 <br>
 
     🌜 개인 공부 기록용 블로그입니다. 오류나 틀린 부분이 있을 경우 
-    언제든지 댓글 혹은 메일로 지적해주시면 감사하겠습니다! 😄
+    언제든지 댓글 혹은 메일로 남겨주시면 감사하겠습니다. 😄
 
 [맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right}
