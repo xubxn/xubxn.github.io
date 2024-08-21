@@ -12,13 +12,13 @@ toc_sticky: true
 
 breadcrumbs: true
  
-date: 2020-05-26
-last_modified_at: 2020-05-30
+date: 2024-05-26
+last_modified_at: 2024-05-30
 ---
     🌕 계속 수정해나갈 문서입니다.
 
 [Jekyll 한글 문서](https://jekyllrb-ko.github.io/)와 [Minimal Mistakes 공식 문서](https://mmistakes.github.io/minimal-mistakes/)를 참고하였다.
-HTML, SCSS, Liquid. 어려운 언어는 아니지만 문법을 몰라서 공부해가며 파악하고 정리했는데 나름 재밌었다 😎 각각의 역할을 파악하는데에 <u>💛Chrome 개발자 도구💛</u>도 도움이 많이 되었다. 정확한 문법은 잘 몰라도 구글링과 함께 대략적으로 유추하면서 구조와 각각의 역할을 파악하였다. 블로그 커스타미이징시 개발자 도구를 적극 이용하자! 
+
 
 
 ## minimal-mistakes 구조 한 눈에 보기
@@ -64,7 +64,7 @@ main:
   - title: "Sitemap"
     url: /sitemap/
 ```
-**상단 메뉴바** 인 것 같다. 메뉴바를 커스터마이징할 때 이 문서를 건드리면 될 것 같다. url이 현재 저렇게 되있기 때문에 Quick-Start Guide와 About을 누르면 Minimal Mistakes 문서 페이지로 이동한다.서브 url이  year-archive, collection-archive로 등록된 문서가 현재 디렉터리에 없기 때문에 Sample Posts를 누르면 404 에러 페이지가 뜨고 있다. 얼른 메뉴바를 손봐야겠다. 🙄
+**상단 메뉴바** 인 것 같다. 메뉴바를 커스터마이징할 때 이 문서를 건드리면 될 것 같다. url이 현재 저렇게 되있기 때문에 Quick-Start Guide와 About을 누르면 Minimal Mistakes 문서 페이지로 이동한다.서브 url이  year-archive, collection-archive로 등록된 문서가 현재 디렉터리에 없기 때문에 Sample Posts를 누르면 404 에러 페이지가 뜨고 있다. 🙄
 
 #### 📘ui-text.yml
 
@@ -190,7 +190,7 @@ feature_row:  # 3개의 이미지와 각가의 텍스트가 담긴 feature_row
 feature_row와 다르게 텍스트 없이 한 줄에 사진 여러개만 있다. feature_row와 똑같은 방법으로 쓰면 된다. 머릿말에 각 이미지들의 url, path, alt, title 정보가 담긴 `gallery` 변수 지정해주고 본문에서 Liquid 태그로 출력.
 
 ##### 📝group-by-array
-포스트 페이지 링크들이 모아져있는 `archive`같은 페이지에 쓰이는 것 같긴 한데 정확히 어디에 쓰이는건지 잘 모르겠다... 
+포스트 페이지 링크들이 모아져있는 `archive`같은 페이지에 쓰이는 것 같긴 한데 정확히 어디에 쓰이는건지 잘 모르겠다.
 [사용방법](https://github.com/mushishi78/jekyll-group-by-array)
 
 ##### 📝nav_list
@@ -517,7 +517,7 @@ config.yml 에서 `post`나 `page`의 default 설정값을 지정해 놓을 수 
 [minimal-mistakes 문서](https://mmistakes.github.io/minimal-mistakes/)    
 
 ***
-    🌜 개인 공부 기록용 블로그입니다. 오류나 틀린 부분이 있을 경우 
-    언제든지 댓글 혹은 메일로 지적해주시면 감사하겠습니다! 😄
+    🚀 개인 공부 기록용 블로그입니다. 오류나 틀린 부분이 있을 경우 
+    언제든지 댓글 혹은 메일로 남겨주세요. 감사합니다. 😄
 
 [맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right}

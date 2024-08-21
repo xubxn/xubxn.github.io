@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
  
-date: 2020-05-23
-last_modified_at: 2020-05-25
+date: 2024-05-23
+last_modified_at: 2024-05-25
 ---
 
 🎀 [jekyll 한글 문서 페이지](https://jekyllrb-ko.github.io/) 🎀 를 참고하였다.
@@ -25,7 +25,7 @@ last_modified_at: 2020-05-25
 
 
 레포지토리의 이름을 자신의 깃허브 계정 이름.github.io 로 하여 생성해준다.  
-ex) `ansohxxn.github.io`
+ex) `xubxn.github.io`
 
 <br>
 
@@ -42,7 +42,7 @@ ex) `ansohxxn.github.io`
 
 **`git clone` + 새 레포지토리 주소.git**
 git clone 뒤에 위에서 만든 새 레포지토리의 주소, 그리고 `.git` 까지 붙여 명령어를 실행해준다.  
-ex) `git clone https://github.com/ansohxxn/ansohxxn.github.io.git`    
+ex) `git clone https://github.com/xubxn/xubxn.github.io.git`    
 
 이제 cmd상 현재 폴더 위치로 가보면 `깃허브아이디.github.io` 폴더가 생겨있을 것이다. 블로그로 쓸 레포지토리 복사 완료! 
 이렇게 git clone 해주면 내 블로그 레포지토리와 원격으로 연결된다.
@@ -71,11 +71,11 @@ cmd에 `jekyll -v` 명령어를 수행하여 jekyll이 잘 설치되었는지 �
 
 # 5. jekyll 테마를 내 블로그 레포지토리 Local 폴더에 다운받는다.
 
-난 [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) 테마를 선택했다. 이유는 많이 쓰이는 테마길래 정보가 많을 것 같아서..! 또한 기능도 많고 테마 색상도 여러가지길래 선택했다. 구글링 하면 jekyll 테마를 모아 둔 사이트가 여러개 나오는데 여러가지 구경해보다가 선택하게 되었다. 
+난 [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) 테마를 선택했다. 이유는 많이 쓰이는 테마길래 정보가 많을 것 같았다. 또한 기능도 많고 테마 색상도 여러가지길래 선택했다. 구글링 하면 jekyll 테마를 모아 둔 사이트가 여러개 나오는데 여러가지 구경해보다가 선택하게 되었다. 
 
 선택한 jekyll 테마의 깃허브 레포지토리에 접속하여 Zip 압축 파일로 다운 받는다. 
 ![image](https://user-images.githubusercontent.com/42318591/82756872-c41ea300-9e17-11ea-8164-22decb325114.png)
-압축을 풀어 주고 내려 받은 테마 폴더 내용물들을 전부 복사하여 **2번 과정**에서 <u>clone 했던 내 블로그 레포지토리 폴더 `깃허브아이디.github.io` 위치에 전부 붙여넣기 해준다.</u> 이제 이를 github 서버에 push 하여 올려주면 내 블로그에 테마가 적용될 것이다!
+압축을 풀어 주고 내려 받은 테마 폴더 내용물들을 전부 복사하여 **2번 과정**에서 <u>clone 했던 내 블로그 레포지토리 폴더 `깃허브아이디.github.io` 위치에 전부 붙여넣기 해준다.</u> 이제 이를 github 서버에 push 하여 올려주면 내 블로그에 테마가 적용될 것이다.
 
 <br>
 
@@ -97,7 +97,7 @@ git push origin master
 이제 https://깃허브아이디.github.io 에 접속하면 테마가 적용된 내 깃허브 블로그를 확인할 수 있다. 😊 
 
 ***
-    🌜 개인 공부 기록용 블로그입니다. 오류나 틀린 부분이 있을 경우 
-    언제든지 댓글 혹은 메일로 지적해주시면 감사하겠습니다! 😄
+    🚀 개인 공부 기록용 블로그입니다. 오류나 틀린 부분이 있을 경우 
+    언제든지 댓글 혹은 메일로 남겨주세요. 감사합니다. 😄
 
 [맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right}

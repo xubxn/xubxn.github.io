@@ -9,8 +9,8 @@ tags:
 toc: false
 toc_sticky: true
  
-date: 2020-05-30
-last_modified_at: 2020-05-30
+date: 2024-05-30
+last_modified_at: 2024-05-30
 ---
 
 ## 1. `📁_include/scripts.html` 에 다음과 같은 코드를 끝에 추가한다.
@@ -76,7 +76,7 @@ defaults:
 ***
 <br>
 
-    🌜 개인 공부 기록용 블로그입니다. 오류나 틀린 부분이 있을 경우 
-    언제든지 댓글 혹은 메일로 지적해주시면 감사하겠습니다! 😄
+    🚀 개인 공부 기록용 블로그입니다. 오류나 틀린 부분이 있을 경우 
+    언제든지 댓글 혹은 메일로 남겨주세요. 감사합니다. 😄
 
 [맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right}
