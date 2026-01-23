@@ -245,7 +245,7 @@ Liquid 태그로 include figure 이미지를 불러오는 역할을 하는 HTML 
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-1234567-8"
+    tracking_id: "G-XXXXXXXXXX"
     anonymize_ip: false # default
 ```
 이렇게 yml 형식으로 써서 `analytics.html`에 애널리틱스의 provider 정보와 tracking_id, anonymize_ip 정보를 넘겨준다.
