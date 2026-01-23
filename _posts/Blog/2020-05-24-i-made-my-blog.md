@@ -21,8 +21,6 @@ last_modified_at: 2024-05-25
 
 # 1. Github 에서 블로그 용으로 쓸 새로운 Repository 를 생성한다.
 
-![image](https://user-images.githubusercontent.com/42318591/82748040-bd713b00-9dd9-11ea-8c65-4b54676abd1e.png)
-
 
 레포지토리의 이름을 자신의 깃허브 계정 이름.github.io 로 하여 생성해준다.  
 ex) `xubxn.github.io`
